@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EvenOdd {
 
     public static boolean isEven(int n) {
-        return n * 2 == 0;
+        return n % 2 == 0;
     }
 
     public static String check(int n) {
