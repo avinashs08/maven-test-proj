@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: com.example.maven_test_proj.EvenOdd
+Created-By: Maven Integration for Eclipse
+
